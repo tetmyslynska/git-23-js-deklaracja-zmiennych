@@ -1,2 +1,2 @@
-const firstName = Tetiana;
-const lastName = Myslynska;
+const firstName = "Tetiana";
+const lastName = "Myslynska";
